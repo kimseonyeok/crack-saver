@@ -1,15 +1,21 @@
 // ==UserScript==
-// @name         크랙 대화 저장 v2
-// @namespace    https://github.com/kimseonyeok
-// @version      0.1
-// @description  크랙 채팅을 턴 범위를 지정해 txt로 저장합니다.
+// @name         Crack Saver (크랙 세이버)
+// @namespace    https://github.com/kimseonyeok/crack-saver
+// @version      1.0.1
+// @description  크랙(Crack) 대화 및 데이터 저장 도우미
+// @author       kimseonyeok
+// @match        https://wrtn.ai/*
+// @match        https://*.wrtn.ai/*
 // @match        https://crack.wrtn.ai/*
-// @grant        none
 // @updateURL    https://raw.githubusercontent.com/kimseonyeok/crack-saver/main/crack-saver.user.js
 // @downloadURL  https://raw.githubusercontent.com/kimseonyeok/crack-saver/main/crack-saver.user.js
+// @grant        none
 // ==/UserScript==
 
-(function () {
-  "use strict";
-  console.log("크랙 대화 저장 v0.1 연결 테스트");
+(function() {
+    'use strict';
+
+    // 👇 기존에 작성하신 본문 코드를 이 아래에 넣으세요!
+    console.log("Crack Saver v1.0.1 로드 완료!");
+
 })();
