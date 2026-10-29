@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         크랙 대화 저장
+// @name         크랙 대화 저장 v1
 // @namespace    https://github.com/kimseonyeok
 // @version      0.1
 // @description  크랙 채팅을 턴 범위를 지정해 txt로 저장합니다.
