@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Crack Saver (크랙 세이버)
 // @namespace    https://github.com/kimseonyeok/crack-saver
-// @version      1.0.1
+// @version      1.0.2
 // @description  크랙(Crack) 대화 및 데이터 저장 도우미
 // @author       kimseonyeok
 // @match        https://wrtn.ai/*
