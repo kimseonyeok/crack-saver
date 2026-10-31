@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Crack Saver (API 연동 초고속 버전)
+// @name         로그 세이버
 // @namespace    https://github.com/kimseonyeok/crack-saver
 // @version      2.1.0
 // @description  크랙(Crack) API를 이용한 전체 대화 턴 수집 및 텍스트 파일 저장
